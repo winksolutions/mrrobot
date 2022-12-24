@@ -3,7 +3,7 @@ any kind id places
 
 - 👋 Hi, I’m @kruzmanis29 winksolutions.github.io/mrrobot
 - 👀 I’m interested in ... Programming skills
-- 🌱 I’m currently learning ... Telecomunication
+- 🌱 I’m currently learning ... Telecommunication
 - 💞️ I’m looking to collaborate on ... Freelance
 - 📫 How to reach me ... conversations @psyco
 
